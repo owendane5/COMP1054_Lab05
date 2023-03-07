@@ -96,7 +96,7 @@ a:focus {
 }
 
 a[href^="http"] {
-    background: url("./images/external-link-52.png") no-repeat 100% 0;
+    background: url("external-link-52.png") no-repeat 100% 0;
     background-size: 16px 16px;
     padding-right: 19px;
 }
